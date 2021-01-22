@@ -866,6 +866,9 @@ footer {
             width: 100%;
             .classes-edu {
               flex-wrap: wrap;
+              .left-edu{
+                height: 85px;
+              }
               .left-edu, .right-edu {
                 width: 100%;
                 border-top-left-radius: 10px;

@@ -1273,6 +1273,11 @@ footer .footer-content .footer-right a.be img {
 .about .section-five .educational-set .educational-set-wrapper .educational-right .classes-edu {
     flex-wrap: wrap;
   }
+  .about .section-five .educational-set .educational-set-wrapper .educational-left .classes-edu .left-edu,
+.about .section-five .educational-set .educational-set-wrapper .educational-center .classes-edu .left-edu,
+.about .section-five .educational-set .educational-set-wrapper .educational-right .classes-edu .left-edu {
+    height: 85px;
+  }
   .about .section-five .educational-set .educational-set-wrapper .educational-left .classes-edu .left-edu, .about .section-five .educational-set .educational-set-wrapper .educational-left .classes-edu .right-edu,
 .about .section-five .educational-set .educational-set-wrapper .educational-center .classes-edu .left-edu,
 .about .section-five .educational-set .educational-set-wrapper .educational-center .classes-edu .right-edu,
